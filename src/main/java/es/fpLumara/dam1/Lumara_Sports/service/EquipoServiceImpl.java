@@ -1,0 +1,4 @@
+package es.fpLumara.dam1.Lumara_Sports.service;
+
+public class EquipoServiceImpl {
+}

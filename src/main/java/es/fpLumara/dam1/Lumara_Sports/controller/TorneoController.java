@@ -1,4 +1,4 @@
 package es.fpLumara.dam1.Lumara_Sports.controller;
 
-public class EquipoController {
+public class TorneoController {
 }

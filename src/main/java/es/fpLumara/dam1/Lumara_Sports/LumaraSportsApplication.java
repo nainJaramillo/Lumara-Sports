@@ -9,6 +9,5 @@ public class LumaraSportsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(LumaraSportsApplication.class, args);
 	}
-//jsbkbbqlqefmq .
 
 }
